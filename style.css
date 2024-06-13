@@ -1,0 +1,38 @@
+body {
+    color: black;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h3 {
+    font-size: 30px;
+}
+
+img {
+    height: auto;
+}
+
+.champorado,
+.pancit {
+    width: 400px;
+}
+
+.halo {
+    width: 300px;
+}
+
+li .ingredient {
+    color: lightgreen;
+}
+
+li .ingredient.optional {
+    color: green;
+}
+
+.step {
+    color: lightcoral;
+}
